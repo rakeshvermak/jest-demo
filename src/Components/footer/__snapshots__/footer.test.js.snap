@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should renders footer snapshot 1`] = `
+<DocumentFragment>
+  <footer
+    class="page-footer blue font-small pt-4 mt-4"
+    data-test="footer"
+  >
+    <div
+      class="container-fluid text-center text-md-left"
+      data-test="container"
+    >
+      <div
+        class="row"
+        data-test="row"
+      >
+        <div
+          class="col-md-6"
+          data-test="col"
+        >
+          <h5
+            class="title"
+          >
+            Footer Content
+          </h5>
+          <p>
+            Here you can use rows and columns here to organize your footer content.
+          </p>
+        </div>
+        <div
+          class="col-md-6"
+          data-test="col"
+        >
+          <h5
+            class="title"
+          >
+            Links
+          </h5>
+          <ul>
+            <li
+              class="list-unstyled"
+            >
+              <a
+                href="#!"
+              >
+                Link 1
+              </a>
+            </li>
+            <li
+              class="list-unstyled"
+            >
+              <a
+                href="#!"
+              >
+                Link 2
+              </a>
+            </li>
+            <li
+              class="list-unstyled"
+            >
+              <a
+                href="#!"
+              >
+                Link 3
+              </a>
+            </li>
+            <li
+              class="list-unstyled"
+            >
+              <a
+                href="#!"
+              >
+                Link 4
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div
+      class="footer-copyright text-center py-3"
+    >
+      <div
+        class="container-fluid"
+        data-test="container"
+      >
+        © 2020 Copyright: 
+        <a
+          href="https://www.shyamhub.com"
+        >
+           ShyamHub.com 
+        </a>
+      </div>
+    </div>
+  </footer>
+</DocumentFragment>
+`;
