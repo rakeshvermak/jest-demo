@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/jest-demo/static/css/main.d1b05096.chunk.css",
+    "main.js": "/jest-demo/static/js/main.907ae440.chunk.js",
+    "main.js.map": "/jest-demo/static/js/main.907ae440.chunk.js.map",
+    "runtime-main.js": "/jest-demo/static/js/runtime-main.5219a72f.js",
+    "runtime-main.js.map": "/jest-demo/static/js/runtime-main.5219a72f.js.map",
+    "static/css/2.3a4b2318.chunk.css": "/jest-demo/static/css/2.3a4b2318.chunk.css",
+    "static/js/2.bf408237.chunk.js": "/jest-demo/static/js/2.bf408237.chunk.js",
+    "static/js/2.bf408237.chunk.js.map": "/jest-demo/static/js/2.bf408237.chunk.js.map",
+    "index.html": "/jest-demo/index.html",
+    "precache-manifest.357ec637e3ef9a40be7cfbe9ed3ac4e1.js": "/jest-demo/precache-manifest.357ec637e3ef9a40be7cfbe9ed3ac4e1.js",
+    "service-worker.js": "/jest-demo/service-worker.js",
+    "static/css/2.3a4b2318.chunk.css.map": "/jest-demo/static/css/2.3a4b2318.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/jest-demo/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.bf408237.chunk.js.LICENSE": "/jest-demo/static/js/2.bf408237.chunk.js.LICENSE",
+    "static/media/mdb.css": "/jest-demo/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/jest-demo/static/media/fa-solid-900.f6121be5.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5219a72f.js",
+    "static/css/2.3a4b2318.chunk.css",
+    "static/js/2.bf408237.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.907ae440.chunk.js"
+  ]
+}
